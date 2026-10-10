@@ -1,0 +1,12 @@
+node_modules/
+.env*
+*.pem
+*.key
+dist/
+.wrangler/
+.sites-runtime/
+.next/
+.vinext/
+coverage/
+site-archive-*.tar.gz
+.DS_Store
